@@ -1,4 +1,4 @@
-title: Wow Li Li
+title: 三余文房
 author:
   name: Li Li
   email: your-email@domain.com
@@ -6,7 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Wow Wow
+  三余文房
 
 # Build settings
 
